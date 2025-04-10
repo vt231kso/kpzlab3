@@ -1,0 +1,14 @@
+E:\Політех\kpz\lab3\Adapter\Decorator\bin\Debug\net8.0\Decorator.exe
+E:\Політех\kpz\lab3\Adapter\Decorator\bin\Debug\net8.0\Decorator.deps.json
+E:\Політех\kpz\lab3\Adapter\Decorator\bin\Debug\net8.0\Decorator.runtimeconfig.json
+E:\Політех\kpz\lab3\Adapter\Decorator\bin\Debug\net8.0\Decorator.dll
+E:\Політех\kpz\lab3\Adapter\Decorator\bin\Debug\net8.0\Decorator.pdb
+E:\Політех\kpz\lab3\Adapter\Decorator\obj\Debug\net8.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Політех\kpz\lab3\Adapter\Decorator\obj\Debug\net8.0\Decorator.AssemblyInfoInputs.cache
+E:\Політех\kpz\lab3\Adapter\Decorator\obj\Debug\net8.0\Decorator.AssemblyInfo.cs
+E:\Політех\kpz\lab3\Adapter\Decorator\obj\Debug\net8.0\Decorator.csproj.CoreCompileInputs.cache
+E:\Політех\kpz\lab3\Adapter\Decorator\obj\Debug\net8.0\Decorator.dll
+E:\Політех\kpz\lab3\Adapter\Decorator\obj\Debug\net8.0\refint\Decorator.dll
+E:\Політех\kpz\lab3\Adapter\Decorator\obj\Debug\net8.0\Decorator.pdb
+E:\Політех\kpz\lab3\Adapter\Decorator\obj\Debug\net8.0\Decorator.genruntimeconfig.cache
+E:\Політех\kpz\lab3\Adapter\Decorator\obj\Debug\net8.0\ref\Decorator.dll

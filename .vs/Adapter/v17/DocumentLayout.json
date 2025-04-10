@@ -1,0 +1,603 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE2D914-11EB-4D5C-827E-1AE9945E814D}|Bridge\\Bridge.csproj|e:\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\adapter\\bridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE2D914-11EB-4D5C-827E-1AE9945E814D}|Bridge\\Bridge.csproj|solutionrelative:bridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0C8039-2B1E-43BB-9B53-701746D9F898}|Decorator\\Decorator.csproj|e:\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\adapter\\decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0C8039-2B1E-43BB-9B53-701746D9F898}|Decorator\\Decorator.csproj|solutionrelative:decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1389741F-0523-4316-9BB6-00BE94BE78D1}|FileLoggerAdapter\\FileLoggerAdapter.csproj|e:\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\adapter\\fileloggeradapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1389741F-0523-4316-9BB6-00BE94BE78D1}|FileLoggerAdapter\\FileLoggerAdapter.csproj|solutionrelative:fileloggeradapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B95D26B-C095-4A71-91DD-BDDC3A98DDDD}|FlyWeight\\FlyWeight.csproj|e:\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\adapter\\flyweight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B95D26B-C095-4A71-91DD-BDDC3A98DDDD}|FlyWeight\\FlyWeight.csproj|solutionrelative:flyweight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B95D26B-C095-4A71-91DD-BDDC3A98DDDD}|FlyWeight\\FlyWeight.csproj|e:\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\adapter\\flyweight\\lightelementfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B95D26B-C095-4A71-91DD-BDDC3A98DDDD}|FlyWeight\\FlyWeight.csproj|solutionrelative:flyweight\\lightelementfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C30D4D-CE6C-418C-8042-0059F8D545F0}|Proxy\\Proxy.csproj|e:\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\adapter\\proxy\\smarttextreaderlocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C30D4D-CE6C-418C-8042-0059F8D545F0}|Proxy\\Proxy.csproj|solutionrelative:proxy\\smarttextreaderlocker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3469442-06DF-4964-9D68-C2CE5FEB4E4F}|Composite\\Composite.csproj|e:\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\adapter\\composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3469442-06DF-4964-9D68-C2CE5FEB4E4F}|Composite\\Composite.csproj|solutionrelative:composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3469442-06DF-4964-9D68-C2CE5FEB4E4F}|Composite\\Composite.csproj|e:\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\adapter\\composite\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3469442-06DF-4964-9D68-C2CE5FEB4E4F}|Composite\\Composite.csproj|solutionrelative:composite\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3469442-06DF-4964-9D68-C2CE5FEB4E4F}|Composite\\Composite.csproj|e:\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\adapter\\composite\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3469442-06DF-4964-9D68-C2CE5FEB4E4F}|Composite\\Composite.csproj|solutionrelative:composite\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B95D26B-C095-4A71-91DD-BDDC3A98DDDD}|FlyWeight\\FlyWeight.csproj|e:\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\adapter\\flyweight\\book.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8B95D26B-C095-4A71-91DD-BDDC3A98DDDD}|FlyWeight\\FlyWeight.csproj|solutionrelative:flyweight\\book.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C30D4D-CE6C-418C-8042-0059F8D545F0}|Proxy\\Proxy.csproj|e:\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\adapter\\proxy\\proxy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E2C30D4D-CE6C-418C-8042-0059F8D545F0}|Proxy\\Proxy.csproj|solutionrelative:proxy\\proxy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3469442-06DF-4964-9D68-C2CE5FEB4E4F}|Composite\\Composite.csproj|e:\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\adapter\\composite\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3469442-06DF-4964-9D68-C2CE5FEB4E4F}|Composite\\Composite.csproj|solutionrelative:composite\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C30D4D-CE6C-418C-8042-0059F8D545F0}|Proxy\\Proxy.csproj|e:\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\adapter\\proxy\\smarttextchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C30D4D-CE6C-418C-8042-0059F8D545F0}|Proxy\\Proxy.csproj|solutionrelative:proxy\\smarttextchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C30D4D-CE6C-418C-8042-0059F8D545F0}|Proxy\\Proxy.csproj|e:\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\adapter\\proxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C30D4D-CE6C-418C-8042-0059F8D545F0}|Proxy\\Proxy.csproj|solutionrelative:proxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C30D4D-CE6C-418C-8042-0059F8D545F0}|Proxy\\Proxy.csproj|e:\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\adapter\\proxy\\smarttextreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C30D4D-CE6C-418C-8042-0059F8D545F0}|Proxy\\Proxy.csproj|solutionrelative:proxy\\smarttextreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C30D4D-CE6C-418C-8042-0059F8D545F0}|Proxy\\Proxy.csproj|e:\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\adapter\\proxy\\itextreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C30D4D-CE6C-418C-8042-0059F8D545F0}|Proxy\\Proxy.csproj|solutionrelative:proxy\\itextreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C30D4D-CE6C-418C-8042-0059F8D545F0}|Proxy\\Proxy.csproj|e:\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\adapter\\proxy\\forbidden_file.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E2C30D4D-CE6C-418C-8042-0059F8D545F0}|Proxy\\Proxy.csproj|solutionrelative:proxy\\forbidden_file.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C30D4D-CE6C-418C-8042-0059F8D545F0}|Proxy\\Proxy.csproj|e:\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\adapter\\proxy\\test.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E2C30D4D-CE6C-418C-8042-0059F8D545F0}|Proxy\\Proxy.csproj|solutionrelative:proxy\\test.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE2D914-11EB-4D5C-827E-1AE9945E814D}|Bridge\\Bridge.csproj|e:\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\adapter\\bridge\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE2D914-11EB-4D5C-827E-1AE9945E814D}|Bridge\\Bridge.csproj|solutionrelative:bridge\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE2D914-11EB-4D5C-827E-1AE9945E814D}|Bridge\\Bridge.csproj|e:\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\adapter\\bridge\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE2D914-11EB-4D5C-827E-1AE9945E814D}|Bridge\\Bridge.csproj|solutionrelative:bridge\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE2D914-11EB-4D5C-827E-1AE9945E814D}|Bridge\\Bridge.csproj|e:\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\adapter\\bridge\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE2D914-11EB-4D5C-827E-1AE9945E814D}|Bridge\\Bridge.csproj|solutionrelative:bridge\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE2D914-11EB-4D5C-827E-1AE9945E814D}|Bridge\\Bridge.csproj|e:\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\adapter\\bridge\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE2D914-11EB-4D5C-827E-1AE9945E814D}|Bridge\\Bridge.csproj|solutionrelative:bridge\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE2D914-11EB-4D5C-827E-1AE9945E814D}|Bridge\\Bridge.csproj|e:\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\adapter\\bridge\\rasterrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE2D914-11EB-4D5C-827E-1AE9945E814D}|Bridge\\Bridge.csproj|solutionrelative:bridge\\rasterrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE2D914-11EB-4D5C-827E-1AE9945E814D}|Bridge\\Bridge.csproj|e:\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\adapter\\bridge\\vectorrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE2D914-11EB-4D5C-827E-1AE9945E814D}|Bridge\\Bridge.csproj|solutionrelative:bridge\\vectorrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BE2D914-11EB-4D5C-827E-1AE9945E814D}|Bridge\\Bridge.csproj|e:\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\adapter\\bridge\\ishaperenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BE2D914-11EB-4D5C-827E-1AE9945E814D}|Bridge\\Bridge.csproj|solutionrelative:bridge\\ishaperenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0C8039-2B1E-43BB-9B53-701746D9F898}|Decorator\\Decorator.csproj|e:\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\adapter\\decorator\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0C8039-2B1E-43BB-9B53-701746D9F898}|Decorator\\Decorator.csproj|solutionrelative:decorator\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0C8039-2B1E-43BB-9B53-701746D9F898}|Decorator\\Decorator.csproj|e:\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\adapter\\decorator\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0C8039-2B1E-43BB-9B53-701746D9F898}|Decorator\\Decorator.csproj|solutionrelative:decorator\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0C8039-2B1E-43BB-9B53-701746D9F898}|Decorator\\Decorator.csproj|e:\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\adapter\\decorator\\armor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0C8039-2B1E-43BB-9B53-701746D9F898}|Decorator\\Decorator.csproj|solutionrelative:decorator\\armor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0C8039-2B1E-43BB-9B53-701746D9F898}|Decorator\\Decorator.csproj|e:\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\adapter\\decorator\\artifact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0C8039-2B1E-43BB-9B53-701746D9F898}|Decorator\\Decorator.csproj|solutionrelative:decorator\\artifact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0C8039-2B1E-43BB-9B53-701746D9F898}|Decorator\\Decorator.csproj|e:\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\adapter\\decorator\\inventorydecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0C8039-2B1E-43BB-9B53-701746D9F898}|Decorator\\Decorator.csproj|solutionrelative:decorator\\inventorydecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0C8039-2B1E-43BB-9B53-701746D9F898}|Decorator\\Decorator.csproj|e:\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\adapter\\decorator\\palladin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0C8039-2B1E-43BB-9B53-701746D9F898}|Decorator\\Decorator.csproj|solutionrelative:decorator\\palladin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0C8039-2B1E-43BB-9B53-701746D9F898}|Decorator\\Decorator.csproj|e:\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\adapter\\decorator\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0C8039-2B1E-43BB-9B53-701746D9F898}|Decorator\\Decorator.csproj|solutionrelative:decorator\\mage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C0C8039-2B1E-43BB-9B53-701746D9F898}|Decorator\\Decorator.csproj|e:\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\adapter\\decorator\\ihero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C0C8039-2B1E-43BB-9B53-701746D9F898}|Decorator\\Decorator.csproj|solutionrelative:decorator\\ihero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1389741F-0523-4316-9BB6-00BE94BE78D1}|FileLoggerAdapter\\FileLoggerAdapter.csproj|e:\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\adapter\\fileloggeradapter\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1389741F-0523-4316-9BB6-00BE94BE78D1}|FileLoggerAdapter\\FileLoggerAdapter.csproj|solutionrelative:fileloggeradapter\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1389741F-0523-4316-9BB6-00BE94BE78D1}|FileLoggerAdapter\\FileLoggerAdapter.csproj|e:\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\adapter\\fileloggeradapter\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1389741F-0523-4316-9BB6-00BE94BE78D1}|FileLoggerAdapter\\FileLoggerAdapter.csproj|solutionrelative:fileloggeradapter\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1389741F-0523-4316-9BB6-00BE94BE78D1}|FileLoggerAdapter\\FileLoggerAdapter.csproj|e:\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\adapter\\fileloggeradapter\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1389741F-0523-4316-9BB6-00BE94BE78D1}|FileLoggerAdapter\\FileLoggerAdapter.csproj|solutionrelative:fileloggeradapter\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LightElementFactory.cs",
+              "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\FlyWeight\\LightElementFactory.cs",
+              "RelativeDocumentMoniker": "FlyWeight\\LightElementFactory.cs",
+              "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\FlyWeight\\LightElementFactory.cs",
+              "RelativeToolTip": "FlyWeight\\LightElementFactory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T21:49:47.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\FlyWeight\\Program.cs",
+              "RelativeDocumentMoniker": "FlyWeight\\Program.cs",
+              "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\FlyWeight\\Program.cs",
+              "RelativeToolTip": "FlyWeight\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T21:48:01.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\FileLoggerAdapter\\Program.cs",
+              "RelativeDocumentMoniker": "FileLoggerAdapter\\Program.cs",
+              "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\FileLoggerAdapter\\Program.cs",
+              "RelativeToolTip": "FileLoggerAdapter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:48:20.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SmartTextReaderLocker.cs",
+              "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Proxy\\SmartTextReaderLocker.cs",
+              "RelativeDocumentMoniker": "Proxy\\SmartTextReaderLocker.cs",
+              "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Proxy\\SmartTextReaderLocker.cs",
+              "RelativeToolTip": "Proxy\\SmartTextReaderLocker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T19:47:34.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Decorator\\Program.cs",
+              "RelativeDocumentMoniker": "Decorator\\Program.cs",
+              "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Decorator\\Program.cs",
+              "RelativeToolTip": "Decorator\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T18:39:54.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Bridge\\Program.cs",
+              "RelativeDocumentMoniker": "Bridge\\Program.cs",
+              "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Bridge\\Program.cs",
+              "RelativeToolTip": "Bridge\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T19:21:55.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Composite\\Program.cs",
+              "RelativeDocumentMoniker": "Composite\\Program.cs",
+              "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Composite\\Program.cs",
+              "RelativeToolTip": "Composite\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T20:24:56.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LightTextNode.cs",
+              "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Composite\\LightTextNode.cs",
+              "RelativeDocumentMoniker": "Composite\\LightTextNode.cs",
+              "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Composite\\LightTextNode.cs",
+              "RelativeToolTip": "Composite\\LightTextNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T20:39:35.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LightElementNode.cs",
+              "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Composite\\LightElementNode.cs",
+              "RelativeDocumentMoniker": "Composite\\LightElementNode.cs",
+              "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Composite\\LightElementNode.cs",
+              "RelativeToolTip": "Composite\\LightElementNode.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T20:39:56.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "book.txt",
+              "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\FlyWeight\\book.txt",
+              "RelativeDocumentMoniker": "FlyWeight\\book.txt",
+              "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\FlyWeight\\book.txt",
+              "RelativeToolTip": "FlyWeight\\book.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-29T21:50:45.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Proxy.csproj",
+              "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Proxy\\Proxy.csproj",
+              "RelativeDocumentMoniker": "Proxy\\Proxy.csproj",
+              "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Proxy\\Proxy.csproj",
+              "RelativeToolTip": "Proxy\\Proxy.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-29T21:54:13.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LightNode.cs",
+              "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Composite\\LightNode.cs",
+              "RelativeDocumentMoniker": "Composite\\LightNode.cs",
+              "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Composite\\LightNode.cs",
+              "RelativeToolTip": "Composite\\LightNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T20:38:36.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "forbidden_file.csv",
+              "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Proxy\\forbidden_file.csv",
+              "RelativeDocumentMoniker": "Proxy\\forbidden_file.csv",
+              "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Proxy\\forbidden_file.csv",
+              "RelativeToolTip": "Proxy\\forbidden_file.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-03-29T19:50:46.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SmartTextChecker.cs",
+              "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Proxy\\SmartTextChecker.cs",
+              "RelativeDocumentMoniker": "Proxy\\SmartTextChecker.cs",
+              "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Proxy\\SmartTextChecker.cs",
+              "RelativeToolTip": "Proxy\\SmartTextChecker.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T19:46:59.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SmartTextReader.cs",
+              "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Proxy\\SmartTextReader.cs",
+              "RelativeDocumentMoniker": "Proxy\\SmartTextReader.cs",
+              "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Proxy\\SmartTextReader.cs",
+              "RelativeToolTip": "Proxy\\SmartTextReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T19:46:17.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Proxy\\Program.cs",
+              "RelativeDocumentMoniker": "Proxy\\Program.cs",
+              "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Proxy\\Program.cs",
+              "RelativeToolTip": "Proxy\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T19:45:33.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ITextReader.cs",
+              "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Proxy\\ITextReader.cs",
+              "RelativeDocumentMoniker": "Proxy\\ITextReader.cs",
+              "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Proxy\\ITextReader.cs",
+              "RelativeToolTip": "Proxy\\ITextReader.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T19:45:55.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "test.txt",
+              "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Proxy\\test.txt",
+              "RelativeDocumentMoniker": "Proxy\\test.txt",
+              "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Proxy\\test.txt",
+              "RelativeToolTip": "Proxy\\test.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-29T19:49:42.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Bridge\\Triangle.cs",
+              "RelativeDocumentMoniker": "Bridge\\Triangle.cs",
+              "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Bridge\\Triangle.cs",
+              "RelativeToolTip": "Bridge\\Triangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T19:26:15.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Square.cs",
+              "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Bridge\\Square.cs",
+              "RelativeDocumentMoniker": "Bridge\\Square.cs",
+              "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Bridge\\Square.cs",
+              "RelativeToolTip": "Bridge\\Square.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T19:25:42.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Bridge\\Circle.cs",
+              "RelativeDocumentMoniker": "Bridge\\Circle.cs",
+              "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Bridge\\Circle.cs",
+              "RelativeToolTip": "Bridge\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T19:24:51.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RasterRenderer.cs",
+              "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Bridge\\RasterRenderer.cs",
+              "RelativeDocumentMoniker": "Bridge\\RasterRenderer.cs",
+              "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Bridge\\RasterRenderer.cs",
+              "RelativeToolTip": "Bridge\\RasterRenderer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T19:24:13.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "VectorRenderer.cs",
+              "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Bridge\\VectorRenderer.cs",
+              "RelativeDocumentMoniker": "Bridge\\VectorRenderer.cs",
+              "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Bridge\\VectorRenderer.cs",
+              "RelativeToolTip": "Bridge\\VectorRenderer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T19:23:46.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Bridge\\Shape.cs",
+              "RelativeDocumentMoniker": "Bridge\\Shape.cs",
+              "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Bridge\\Shape.cs",
+              "RelativeToolTip": "Bridge\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T19:22:34.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IShapeRenderer.cs",
+              "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Bridge\\IShapeRenderer.cs",
+              "RelativeDocumentMoniker": "Bridge\\IShapeRenderer.cs",
+              "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Bridge\\IShapeRenderer.cs",
+              "RelativeToolTip": "Bridge\\IShapeRenderer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T19:23:14.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Armor.cs",
+              "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Decorator\\Armor.cs",
+              "RelativeDocumentMoniker": "Decorator\\Armor.cs",
+              "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Decorator\\Armor.cs",
+              "RelativeToolTip": "Decorator\\Armor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T18:44:45.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Artifact.cs",
+              "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Decorator\\Artifact.cs",
+              "RelativeDocumentMoniker": "Decorator\\Artifact.cs",
+              "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Decorator\\Artifact.cs",
+              "RelativeToolTip": "Decorator\\Artifact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T18:43:35.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Sword.cs",
+              "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Decorator\\Sword.cs",
+              "RelativeDocumentMoniker": "Decorator\\Sword.cs",
+              "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Decorator\\Sword.cs",
+              "RelativeToolTip": "Decorator\\Sword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T18:43:04.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "InventoryDecorator.cs",
+              "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Decorator\\InventoryDecorator.cs",
+              "RelativeDocumentMoniker": "Decorator\\InventoryDecorator.cs",
+              "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Decorator\\InventoryDecorator.cs",
+              "RelativeToolTip": "Decorator\\InventoryDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T18:42:27.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Palladin.cs",
+              "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Decorator\\Palladin.cs",
+              "RelativeDocumentMoniker": "Decorator\\Palladin.cs",
+              "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Decorator\\Palladin.cs",
+              "RelativeToolTip": "Decorator\\Palladin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T18:41:53.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Mage.cs",
+              "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Decorator\\Mage.cs",
+              "RelativeDocumentMoniker": "Decorator\\Mage.cs",
+              "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Decorator\\Mage.cs",
+              "RelativeToolTip": "Decorator\\Mage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T18:41:21.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Decorator\\Warrior.cs",
+              "RelativeDocumentMoniker": "Decorator\\Warrior.cs",
+              "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Decorator\\Warrior.cs",
+              "RelativeToolTip": "Decorator\\Warrior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T18:40:45.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IHero.cs",
+              "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Decorator\\IHero.cs",
+              "RelativeDocumentMoniker": "Decorator\\IHero.cs",
+              "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Decorator\\IHero.cs",
+              "RelativeToolTip": "Decorator\\IHero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T18:40:15.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FileWriter.cs",
+              "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\FileLoggerAdapter\\FileWriter.cs",
+              "RelativeDocumentMoniker": "FileLoggerAdapter\\FileWriter.cs",
+              "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\FileLoggerAdapter\\FileWriter.cs",
+              "RelativeToolTip": "FileLoggerAdapter\\FileWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:50:03.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FileLogger.cs",
+              "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\FileLoggerAdapter\\FileLogger.cs",
+              "RelativeDocumentMoniker": "FileLoggerAdapter\\FileLogger.cs",
+              "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\FileLoggerAdapter\\FileLogger.cs",
+              "RelativeToolTip": "FileLoggerAdapter\\FileLogger.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:49:30.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\FileLoggerAdapter\\Logger.cs",
+              "RelativeDocumentMoniker": "FileLoggerAdapter\\Logger.cs",
+              "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\FileLoggerAdapter\\Logger.cs",
+              "RelativeToolTip": "FileLoggerAdapter\\Logger.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T15:48:47.263Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

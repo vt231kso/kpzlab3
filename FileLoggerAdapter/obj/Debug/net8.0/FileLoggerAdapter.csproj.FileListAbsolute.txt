@@ -1,0 +1,14 @@
+E:\Політех\kpz\lab3\Adapter\FileLoggerAdapter\bin\Debug\net8.0\FileLoggerAdapter.exe
+E:\Політех\kpz\lab3\Adapter\FileLoggerAdapter\bin\Debug\net8.0\FileLoggerAdapter.deps.json
+E:\Політех\kpz\lab3\Adapter\FileLoggerAdapter\bin\Debug\net8.0\FileLoggerAdapter.runtimeconfig.json
+E:\Політех\kpz\lab3\Adapter\FileLoggerAdapter\bin\Debug\net8.0\FileLoggerAdapter.dll
+E:\Політех\kpz\lab3\Adapter\FileLoggerAdapter\bin\Debug\net8.0\FileLoggerAdapter.pdb
+E:\Політех\kpz\lab3\Adapter\FileLoggerAdapter\obj\Debug\net8.0\FileLoggerAdapter.GeneratedMSBuildEditorConfig.editorconfig
+E:\Політех\kpz\lab3\Adapter\FileLoggerAdapter\obj\Debug\net8.0\FileLoggerAdapter.AssemblyInfoInputs.cache
+E:\Політех\kpz\lab3\Adapter\FileLoggerAdapter\obj\Debug\net8.0\FileLoggerAdapter.AssemblyInfo.cs
+E:\Політех\kpz\lab3\Adapter\FileLoggerAdapter\obj\Debug\net8.0\FileLoggerAdapter.csproj.CoreCompileInputs.cache
+E:\Політех\kpz\lab3\Adapter\FileLoggerAdapter\obj\Debug\net8.0\FileLoggerAdapter.dll
+E:\Політех\kpz\lab3\Adapter\FileLoggerAdapter\obj\Debug\net8.0\refint\FileLoggerAdapter.dll
+E:\Політех\kpz\lab3\Adapter\FileLoggerAdapter\obj\Debug\net8.0\FileLoggerAdapter.pdb
+E:\Політех\kpz\lab3\Adapter\FileLoggerAdapter\obj\Debug\net8.0\FileLoggerAdapter.genruntimeconfig.cache
+E:\Політех\kpz\lab3\Adapter\FileLoggerAdapter\obj\Debug\net8.0\ref\FileLoggerAdapter.dll
