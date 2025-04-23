@@ -1,0 +1,12 @@
+# .gitignore
+
+# Visual Studio
+.vs/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Temporary files
+obj/
+bin/
