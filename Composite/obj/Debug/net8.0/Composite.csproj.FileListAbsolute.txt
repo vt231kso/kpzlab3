@@ -12,3 +12,4 @@ E:\Політех\kpz\lab3\Adapter\Composite\obj\Debug\net8.0\refint\Composite.d
 E:\Політех\kpz\lab3\Adapter\Composite\obj\Debug\net8.0\Composite.pdb
 E:\Політех\kpz\lab3\Adapter\Composite\obj\Debug\net8.0\Composite.genruntimeconfig.cache
 E:\Політех\kpz\lab3\Adapter\Composite\obj\Debug\net8.0\ref\Composite.dll
+E:\Політех\kpz\lab3\Adapter\Composite\obj\Debug\net8.0\Composite.sourcelink.json
