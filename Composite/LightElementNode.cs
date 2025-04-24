@@ -12,10 +12,35 @@ namespace Composite
     public List<LightNode> Children { get; } = new();
     public string CssClass { get; }
 
+    private Dictionary<string, List<IEventListener>> _eventListeners = new();
+
     public LightElementNode(string tagName, string cssClass = "")
     {
       TagName = tagName;
       CssClass = cssClass;
+    }
+
+    public void AddEventListener(string eventType, IEventListener listener)
+    {
+      if (!_eventListeners.ContainsKey(eventType))
+        _eventListeners[eventType] = new List<IEventListener>();
+
+      _eventListeners[eventType].Add(listener);
+    }
+
+    public void TriggerEvent(string eventType)
+    {
+      if (_eventListeners.TryGetValue(eventType, out var listeners))
+      {
+        foreach (var listener in listeners)
+        {
+          listener.HandleEvent(eventType);
+        }
+      }
+      else
+      {
+        Console.WriteLine($"No listeners for event '{eventType}' on <{TagName}>");
+      }
     }
 
     public override string InnerHTML
