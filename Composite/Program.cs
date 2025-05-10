@@ -1,3 +1,5 @@
+using Composite.Composite;
+
 namespace Composite
 {
   internal class Program
@@ -5,25 +7,19 @@ namespace Composite
     static void Main()
     {
       LightElementNode container = new LightElementNode("div", "container");
-
       LightElementNode title = new LightElementNode("h1", "title");
-      title.AddChild(new LightTextNode("Hello, LightHTML!"));
+      LightTextNode titleText = new LightTextNode("Hello, Command Pattern!");
 
-      LightElementNode list = new LightElementNode("ul", "list");
+      // Команда додати текст до h1
+      ICommand addTitleTextCommand = new AddChildCommand(title, titleText);
+      addTitleTextCommand.Execute();
 
-      LightElementNode firstItem = new LightElementNode("li");
-      firstItem.AddChild(new LightTextNode("First item"));
+      // Команда додати h1 до контейнера
+      ICommand addTitleCommand = new AddChildCommand(container, title);
+      addTitleCommand.Execute();
 
-      LightElementNode secondItem = new LightElementNode("li");
-      secondItem.AddChild(new LightTextNode("Second item"));
-
-      list.AddChild(firstItem);
-      list.AddChild(secondItem);
-
-      container.AddChild(title);
-      container.AddChild(list);
-
-      Console.WriteLine(container.InnerHTML);
+      // Вивід результату
+      Console.WriteLine(container.OuterHTML);
     }
   }
 }
