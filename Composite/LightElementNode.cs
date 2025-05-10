@@ -11,11 +11,21 @@ namespace Composite
     public string TagName { get; }
     public List<LightNode> Children { get; } = new();
     public string CssClass { get; }
+    private ILightElementState _state = new ActiveState();
 
     public LightElementNode(string tagName, string cssClass = "")
     {
       TagName = tagName;
       CssClass = cssClass;
+    }
+  
+    public void SetState(ILightElementState newState)
+    {
+      _state = newState;
+    }
+    public void AddChild(LightNode child)
+    {
+      _state.AddChild(this, child);
     }
 
     public override string InnerHTML
@@ -36,13 +46,6 @@ namespace Composite
       }
     }
 
-
-
-
-    public void AddChild(LightNode child)
-    {
-      Children.Add(child);
-    }
   }
 
 }

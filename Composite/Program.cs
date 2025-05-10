@@ -4,26 +4,24 @@ namespace Composite
   {
     static void Main()
     {
+
       LightElementNode container = new LightElementNode("div", "container");
-
       LightElementNode title = new LightElementNode("h1", "title");
-      title.AddChild(new LightTextNode("Hello, LightHTML!"));
+      LightTextNode titleText = new LightTextNode("Hello, State Pattern!");
 
-      LightElementNode list = new LightElementNode("ul", "list");
+      // Додаємо текст в активному стані
+      title.AddChild(titleText);
 
-      LightElementNode firstItem = new LightElementNode("li");
-      firstItem.AddChild(new LightTextNode("First item"));
+      // Встановлюємо Disabled стан
+      title.SetState(new DisabledState());
 
-      LightElementNode secondItem = new LightElementNode("li");
-      secondItem.AddChild(new LightTextNode("Second item"));
+      // Спробуємо ще раз додати текст (повинно заблокувати)
+      title.AddChild(new LightTextNode("Цей текст не додасться"));
 
-      list.AddChild(firstItem);
-      list.AddChild(secondItem);
-
+      // Додаємо h1 до контейнера
       container.AddChild(title);
-      container.AddChild(list);
 
-      Console.WriteLine(container.InnerHTML);
+      Console.WriteLine(container.OuterHTML);
     }
   }
 }
