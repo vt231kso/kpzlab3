@@ -24,6 +24,22 @@ namespace Composite
       container.AddChild(list);
 
       Console.WriteLine(container.InnerHTML);
+      Console.WriteLine("\nIterator traversal:");
+      var iterator = new DepthFirstIterator(container);
+      while (iterator.HasNext())
+      {
+        var node = iterator.Next();
+        Console.WriteLine(node.OuterHTML);
+      }
+      Console.WriteLine("\nIterator traversal (Breadth-First):");
+      var bfsIterator = new BreadthFirstIterator(container);
+      while (bfsIterator.HasNext())
+      {
+        var node = bfsIterator.Next();
+        Console.WriteLine(node.OuterHTML);
+      }
+
+
     }
   }
 }

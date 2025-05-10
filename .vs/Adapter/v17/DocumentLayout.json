@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{A3469442-06DF-4964-9D68-C2CE5FEB4E4F}|Composite\\Composite.csproj|solutionrelative:composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3469442-06DF-4964-9D68-C2CE5FEB4E4F}|Composite\\Composite.csproj|e:\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\adapter\\composite\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3469442-06DF-4964-9D68-C2CE5FEB4E4F}|Composite\\Composite.csproj|solutionrelative:composite\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A3469442-06DF-4964-9D68-C2CE5FEB4E4F}|Composite\\Composite.csproj|e:\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\adapter\\composite\\lightnodeiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3469442-06DF-4964-9D68-C2CE5FEB4E4F}|Composite\\Composite.csproj|solutionrelative:composite\\lightnodeiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A3469442-06DF-4964-9D68-C2CE5FEB4E4F}|Composite\\Composite.csproj|e:\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\adapter\\composite\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,6 +17,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A3469442-06DF-4964-9D68-C2CE5FEB4E4F}|Composite\\Composite.csproj|e:\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\adapter\\composite\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3469442-06DF-4964-9D68-C2CE5FEB4E4F}|Composite\\Composite.csproj|solutionrelative:composite\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3469442-06DF-4964-9D68-C2CE5FEB4E4F}|Composite\\Composite.csproj|e:\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\adapter\\composite\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3469442-06DF-4964-9D68-C2CE5FEB4E4F}|Composite\\Composite.csproj|solutionrelative:composite\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0BE2D914-11EB-4D5C-827E-1AE9945E814D}|Bridge\\Bridge.csproj|e:\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\adapter\\bridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -154,8 +158,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LightNodeIterator.cs",
+              "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Composite\\LightNodeIterator.cs",
+              "RelativeDocumentMoniker": "Composite\\LightNodeIterator.cs",
+              "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Composite\\LightNodeIterator.cs*",
+              "RelativeToolTip": "Composite\\LightNodeIterator.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T14:28:21.702Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -175,29 +192,29 @@
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Composite\\Program.cs",
               "RelativeDocumentMoniker": "Composite\\Program.cs",
-              "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Composite\\Program.cs",
-              "RelativeToolTip": "Composite\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBEAAAAbAAAAAAAAAA==",
+              "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Composite\\Program.cs*",
+              "RelativeToolTip": "Composite\\Program.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-29T20:24:56.156Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "LightElementNode.cs",
               "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Composite\\LightElementNode.cs",
               "RelativeDocumentMoniker": "Composite\\LightElementNode.cs",
               "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Composite\\LightElementNode.cs",
               "RelativeToolTip": "Composite\\LightElementNode.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-29T20:39:56.244Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "SmartTextReaderLocker.cs",
               "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Proxy\\SmartTextReaderLocker.cs",
               "RelativeDocumentMoniker": "Proxy\\SmartTextReaderLocker.cs",
@@ -209,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Decorator\\Program.cs",
               "RelativeDocumentMoniker": "Decorator\\Program.cs",
@@ -227,14 +244,14 @@
               "RelativeDocumentMoniker": "Composite\\LightTextNode.cs",
               "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Composite\\LightTextNode.cs",
               "RelativeToolTip": "Composite\\LightTextNode.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-29T20:39:35.907Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\FileLoggerAdapter\\Program.cs",
               "RelativeDocumentMoniker": "FileLoggerAdapter\\Program.cs",
@@ -246,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Bridge\\Program.cs",
               "RelativeDocumentMoniker": "Bridge\\Program.cs",
@@ -254,12 +271,11 @@
               "RelativeToolTip": "Bridge\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T19:21:55.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T19:21:55.562Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\FlyWeight\\Program.cs",
               "RelativeDocumentMoniker": "FlyWeight\\Program.cs",
@@ -271,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "LightElementFactory.cs",
               "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\FlyWeight\\LightElementFactory.cs",
               "RelativeDocumentMoniker": "FlyWeight\\LightElementFactory.cs",
@@ -283,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "book.txt",
               "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\FlyWeight\\book.txt",
               "RelativeDocumentMoniker": "FlyWeight\\book.txt",
@@ -295,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Proxy.csproj",
               "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Proxy\\Proxy.csproj",
               "RelativeDocumentMoniker": "Proxy\\Proxy.csproj",
@@ -307,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "forbidden_file.csv",
               "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Proxy\\forbidden_file.csv",
               "RelativeDocumentMoniker": "Proxy\\forbidden_file.csv",
@@ -319,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "SmartTextChecker.cs",
               "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Proxy\\SmartTextChecker.cs",
               "RelativeDocumentMoniker": "Proxy\\SmartTextChecker.cs",
@@ -331,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "SmartTextReader.cs",
               "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Proxy\\SmartTextReader.cs",
               "RelativeDocumentMoniker": "Proxy\\SmartTextReader.cs",
@@ -343,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Proxy\\Program.cs",
               "RelativeDocumentMoniker": "Proxy\\Program.cs",
@@ -355,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "ITextReader.cs",
               "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Proxy\\ITextReader.cs",
               "RelativeDocumentMoniker": "Proxy\\ITextReader.cs",
@@ -367,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "test.txt",
               "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Proxy\\test.txt",
               "RelativeDocumentMoniker": "Proxy\\test.txt",
@@ -379,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Triangle.cs",
               "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Bridge\\Triangle.cs",
               "RelativeDocumentMoniker": "Bridge\\Triangle.cs",
@@ -391,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Square.cs",
               "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Bridge\\Square.cs",
               "RelativeDocumentMoniker": "Bridge\\Square.cs",
@@ -403,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Circle.cs",
               "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Bridge\\Circle.cs",
               "RelativeDocumentMoniker": "Bridge\\Circle.cs",
@@ -415,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "RasterRenderer.cs",
               "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Bridge\\RasterRenderer.cs",
               "RelativeDocumentMoniker": "Bridge\\RasterRenderer.cs",
@@ -427,7 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "VectorRenderer.cs",
               "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Bridge\\VectorRenderer.cs",
               "RelativeDocumentMoniker": "Bridge\\VectorRenderer.cs",
@@ -439,7 +455,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Shape.cs",
               "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Bridge\\Shape.cs",
               "RelativeDocumentMoniker": "Bridge\\Shape.cs",
@@ -451,7 +467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "IShapeRenderer.cs",
               "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Bridge\\IShapeRenderer.cs",
               "RelativeDocumentMoniker": "Bridge\\IShapeRenderer.cs",
@@ -463,7 +479,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "Armor.cs",
               "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Decorator\\Armor.cs",
               "RelativeDocumentMoniker": "Decorator\\Armor.cs",
@@ -475,7 +491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "Artifact.cs",
               "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Decorator\\Artifact.cs",
               "RelativeDocumentMoniker": "Decorator\\Artifact.cs",
@@ -487,7 +503,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Sword.cs",
               "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Decorator\\Sword.cs",
               "RelativeDocumentMoniker": "Decorator\\Sword.cs",
@@ -499,7 +515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "InventoryDecorator.cs",
               "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Decorator\\InventoryDecorator.cs",
               "RelativeDocumentMoniker": "Decorator\\InventoryDecorator.cs",
@@ -511,7 +527,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "Palladin.cs",
               "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Decorator\\Palladin.cs",
               "RelativeDocumentMoniker": "Decorator\\Palladin.cs",
@@ -523,7 +539,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "Mage.cs",
               "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Decorator\\Mage.cs",
               "RelativeDocumentMoniker": "Decorator\\Mage.cs",
@@ -535,7 +551,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Warrior.cs",
               "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Decorator\\Warrior.cs",
               "RelativeDocumentMoniker": "Decorator\\Warrior.cs",
@@ -547,7 +563,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "IHero.cs",
               "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Decorator\\IHero.cs",
               "RelativeDocumentMoniker": "Decorator\\IHero.cs",
@@ -559,7 +575,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "FileWriter.cs",
               "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\FileLoggerAdapter\\FileWriter.cs",
               "RelativeDocumentMoniker": "FileLoggerAdapter\\FileWriter.cs",
@@ -571,7 +587,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "FileLogger.cs",
               "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\FileLoggerAdapter\\FileLogger.cs",
               "RelativeDocumentMoniker": "FileLoggerAdapter\\FileLogger.cs",
@@ -583,7 +599,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "Logger.cs",
               "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\FileLoggerAdapter\\Logger.cs",
               "RelativeDocumentMoniker": "FileLoggerAdapter\\Logger.cs",
