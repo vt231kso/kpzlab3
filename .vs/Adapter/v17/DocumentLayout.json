@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{A3469442-06DF-4964-9D68-C2CE5FEB4E4F}|Composite\\Composite.csproj|solutionrelative:composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3469442-06DF-4964-9D68-C2CE5FEB4E4F}|Composite\\Composite.csproj|e:\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\adapter\\composite\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3469442-06DF-4964-9D68-C2CE5FEB4E4F}|Composite\\Composite.csproj|solutionrelative:composite\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A3469442-06DF-4964-9D68-C2CE5FEB4E4F}|Composite\\Composite.csproj|e:\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\adapter\\composite\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3469442-06DF-4964-9D68-C2CE5FEB4E4F}|Composite\\Composite.csproj|solutionrelative:composite\\lighttextnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A3469442-06DF-4964-9D68-C2CE5FEB4E4F}|Composite\\Composite.csproj|e:\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\adapter\\composite\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3469442-06DF-4964-9D68-C2CE5FEB4E4F}|Composite\\Composite.csproj|solutionrelative:composite\\lightnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3469442-06DF-4964-9D68-C2CE5FEB4E4F}|Composite\\Composite.csproj|e:\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\adapter\\composite\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3469442-06DF-4964-9D68-C2CE5FEB4E4F}|Composite\\Composite.csproj|solutionrelative:composite\\lightelementnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0BE2D914-11EB-4D5C-827E-1AE9945E814D}|Bridge\\Bridge.csproj|e:\\\u043F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\adapter\\bridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -154,17 +154,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "LightElementNode.cs",
+              "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Composite\\LightElementNode.cs",
+              "RelativeDocumentMoniker": "Composite\\LightElementNode.cs",
+              "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Composite\\LightElementNode.cs",
+              "RelativeToolTip": "Composite\\LightElementNode.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T20:39:56.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "LightNode.cs",
               "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Composite\\LightNode.cs",
               "RelativeDocumentMoniker": "Composite\\LightNode.cs",
-              "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Composite\\LightNode.cs",
-              "RelativeToolTip": "Composite\\LightNode.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Composite\\LightNode.cs*",
+              "RelativeToolTip": "Composite\\LightNode.cs*",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-29T20:38:36.848Z",
               "EditorCaption": ""
@@ -175,9 +188,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Composite\\Program.cs",
               "RelativeDocumentMoniker": "Composite\\Program.cs",
-              "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Composite\\Program.cs",
-              "RelativeToolTip": "Composite\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBEAAAAbAAAAAAAAAA==",
+              "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Composite\\Program.cs*",
+              "RelativeToolTip": "Composite\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-29T20:24:56.156Z",
               "EditorCaption": ""
@@ -185,14 +198,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LightElementNode.cs",
-              "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Composite\\LightElementNode.cs",
-              "RelativeDocumentMoniker": "Composite\\LightElementNode.cs",
-              "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Composite\\LightElementNode.cs",
-              "RelativeToolTip": "Composite\\LightElementNode.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "LightTextNode.cs",
+              "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Composite\\LightTextNode.cs",
+              "RelativeDocumentMoniker": "Composite\\LightTextNode.cs",
+              "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Composite\\LightTextNode.cs*",
+              "RelativeToolTip": "Composite\\LightTextNode.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T20:39:56.244Z",
+              "WhenOpened": "2025-03-29T20:39:35.907Z",
               "EditorCaption": ""
             },
             {
@@ -221,19 +234,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LightTextNode.cs",
-              "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Composite\\LightTextNode.cs",
-              "RelativeDocumentMoniker": "Composite\\LightTextNode.cs",
-              "ToolTip": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\Composite\\LightTextNode.cs",
-              "RelativeToolTip": "Composite\\LightTextNode.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T20:39:35.907Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\\u041F\u043E\u043B\u0456\u0442\u0435\u0445\\kpz\\lab3\\Adapter\\FileLoggerAdapter\\Program.cs",
@@ -254,8 +254,7 @@
               "RelativeToolTip": "Bridge\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T19:21:55.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-29T19:21:55.562Z"
             },
             {
               "$type": "Document",
