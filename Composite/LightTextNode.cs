@@ -16,7 +16,12 @@ namespace Composite
     }
 
     public override string InnerHTML => _text; 
-    public override string OuterHTML => _text; 
+    public override string OuterHTML => _text;
+
+    public override void OnTextRendered()
+    {
+      Console.WriteLine($"[Text Rendered] Текст: {_text} відрендерено.");
+    }
 
   }
 
